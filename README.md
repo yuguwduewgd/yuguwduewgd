@@ -18,15 +18,9 @@ I'm a school student passionate about learning programming and web development. 
 ---
 
 ## 📂 Check Out My Projects
-TIC TAE TOE GAME IN HTML      : https://github.com/yuguwduewgd/Tic--TAC--TOE-HTML-
-FLAPPY BALL GAME IN HTML      : https://github.com/yuguwduewgd/FLAPPY-BALL-GAME-IN-HTML-
-PING PONG GAME IN HTML        : https://github.com/yuguwduewgd/PING-PONG-GAME-IN-HTML-CODE-WITH-ITS-LINK-
-SNAKE AND LADDER GAME IN HTML : https://github.com/yuguwduewgd/SNAKE-AND-LADDER-GAME-IN-HTML-
-CALCULATOR IN HTML            :  https://github.com/yuguwduewgd/CALCULATOR-CODE-IN-HTML-
-TIC TAE TOE GAME IN PYTHON    : https://github.com/yuguwduewgd/Tic-TAC-TOE
 
 
-I'll be sharing code and projects as I learn. Stay tuned!
+I'll be sharing code and projects as I learn. Stay tuned! 😍😍😍😍😍😍😍😍😍😊😊😊😊😊😊😊👌👌👌👌👌👌
 
 ## 📫 How to Reach Me
 yug20256@gmail.com
