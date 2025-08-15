@@ -8,12 +8,14 @@ I'm a school student passionate about learning programming and web development. 
 - **C++**: Exploring the fundamentals of programming, problem-solving, and algorithms.
 - **C#**: Building applications and learning about object-oriented programming.
 - **HTML** (main language): Creating websites and understanding the basics of web development.
+ ---
 
 ## 💡 About Me
 
 - 💻 I love writing code and building small projects.
 - 🎯 I'm focused on improving my skills every day.
 - 📚 Always excited to learn something new and take on challenges.
+---
 
 ## 📂 Check Out My Projects
 TIC TAE TOE GAME IN HTML      : https://github.com/yuguwduewgd/Tic--TAC--TOE-HTML-
@@ -33,12 +35,11 @@ If you want to connect or collaborate, feel free to reach out on GitHub.
 
 ---
 
-Thanks for visiting my profile! 😊
 <img width="258" height="313" alt="image" src="https://github.com/user-attachments/assets/3c360542-0948-45ee-aa1e-ac76ab980dad" />
 <img width="757" height="649" alt="image" src="https://github.com/user-attachments/assets/f1805fa3-6d87-4a3a-96b7-7630bab64e03" />
-<img width="624" height="706" alt="image" src="https://github.com/user-attachments/assets/fd918835-60cb-40f7-9718-8a10252d2246" />
-<img width="708" height="723" alt="image" src="https://github.com/user-attachments/assets/9477a3c4-1674-4c0a-95f0-e9d47bd05dbc" />
+---
 
+Thanks for visiting my profile! 😊
 
 
 
