@@ -34,6 +34,7 @@ If you want to connect or collaborate, feel free to reach out on GitHub.
 ---
 
 Thanks for visiting my profile! 😊
+<a href="https://u8views.com/github/yuguwduewgd"><img src="https://u8views.com/api/v1/github/profiles/209578395/views/day-week-month-total-count.svg"></a>
 
 
 
