@@ -1,4 +1,4 @@
-## HELLO GUYS TO MY PROFILE 👋# 👋 
+mi## HELLO GUYS TO MY PROFILE 👋# 👋 
 
 Welcome to my GitHub profile!  
 I'm a school student passionate about learning programming and web development. Here, you'll find my projects and experiments as I learn and grow as a developer.
@@ -34,7 +34,7 @@ If you want to connect or collaborate, feel free to reach out on GitHub.
 ---
 
 Thanks for visiting my profile! 😊
-<a href="https://u8views.com/github/yuguwduewgd"><img src="https://u8views.com/api/v1/github/profiles/209578395/views/day-week-month-total-count.svg"></a>
+
 
 
 
