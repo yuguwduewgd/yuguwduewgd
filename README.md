@@ -5,9 +5,9 @@ I'm a school student passionate about learning programming and web development. 
 
 ## 🌱 What I'm Learning
 
-- **C++**: Exploring the fundamentals of programming, problem-solving, and algorithms.
-- **C#**: Building applications and learning about object-oriented programming.
-- **HTML** (main language): Creating websites and understanding the basics of web development.
+- **Cobol**(Still learning): Exploring the fundamentals of programming, problem-solving, and algorithms.
+- **Python**(main language): Building applications and learning about object-oriented programming.
+- **HTML** (side language): Creating websites and understanding the basics of web development.
  ---
 
 ## 💡 About Me
