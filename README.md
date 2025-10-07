@@ -24,6 +24,7 @@ I'll be sharing code and projects as I learn. Stay tuned! 😍😍😍😍😍�
 
 ## 📫 How to Reach Me
 yug20256@gmail.com
+https://x.com/Yug1163041
 
 If you want to connect or collaborate, feel free to reach out on GitHub.
 
