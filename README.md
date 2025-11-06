@@ -1,7 +1,7 @@
 ## HELLO GUYS TO MY PROFILE 👋# 👋 
 
 Welcome to my GitHub profile!  
-I'm a school student passionate about learning programming and web development. Here, you'll find my projects and experiments as I learn and grow as a developer.
+I'm a school student passionate about learning programming and web development.Here, you'll find my projects and experiments as I learn and grow as a developer.
 
 ## 🌱 What I'm Learning
 
