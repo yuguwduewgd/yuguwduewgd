@@ -22,6 +22,11 @@ I'm a school student passionate about learning programming and web development.H
 
 I'll be sharing code and projects as I learn. Stay tuned! 😍😍😍😍😍😍😍😍😍😊😊😊😊😊😊😊👌👌👌👌👌👌
 
+## My Recent Activities
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 ## 📫 How to Reach Me
 yug20256@gmail.com
 
