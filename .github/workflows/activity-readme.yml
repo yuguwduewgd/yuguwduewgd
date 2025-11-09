@@ -1,0 +1,20 @@
+name: Update README
+on:
+  schedule:
+    - cron: "*/30 * * * *" # Yug, It specifies the time after which it will be updated, I will give spaces like this to make you understand that what I did.
+  workflow_dispatch:
+jobs:
+  build:
+    name: Update this repo's README with recent activity
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: jamesgeorge007/github-activity-readme@master # Uses this workflow
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          COMMIT_MSG: "Specify a custom commit message" #This is Commit Message
+          MAX_LINES: 10 # Means that your top 10 PRs will be shown
+          COMMIT_NAME: GitHub Activity Readme # This will be the Commmit name.
