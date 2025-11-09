@@ -34,7 +34,7 @@ I'll be sharing code and projects as I learn. Stay tuned! 😍😍😍😍😍�
 7. 🔒 Closed issue [#1](https://github.com/yuguwduewgd/Number-guessing-game/issues/1) in [yuguwduewgd/Number-guessing-game](https://github.com/yuguwduewgd/Number-guessing-game)
 8. ❗ Opened issue [#1](https://github.com/yuguwduewgd/Number-guessing-game/issues/1) in [yuguwduewgd/Number-guessing-game](https://github.com/yuguwduewgd/Number-guessing-game)
 9. 🔒 Closed issue [#1](https://github.com/TheSnappy-Dev/Resume-Generator/issues/1) in [TheSnappy-Dev/Resume-Generator](https://github.com/TheSnappy-Dev/Resume-Generator)
-10. ❗ Opened issue [#5](https://github.com/S8462876484/blablabla/issues/5) in [S8462876484/blablabla](https://github.com/S8462876484/blablabla)
+10. 🔒 Closed issue [#1](https://github.com/S8462876484/tic-tak-app/issues/1) in [S8462876484/tic-tak-app](https://github.com/S8462876484/tic-tak-app)
 <!--END_SECTION:activity-->
 
 ## 📫 How to Reach Me
