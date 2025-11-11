@@ -25,16 +25,16 @@ I'll be sharing code and projects as I learn. Stay tuned! 😍😍😍😍😍�
 ## My Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#1](https://github.com/yuguwduewgd/Snake-game-/issues/1) in [yuguwduewgd/Snake-game-](https://github.com/yuguwduewgd/Snake-game-)
-2. ❗ Opened issue [#2](https://github.com/yuguwduewgd/Snake-game-/issues/2) in [yuguwduewgd/Snake-game-](https://github.com/yuguwduewgd/Snake-game-)
-3. ❗ Opened issue [#1](https://github.com/yuguwduewgd/Snake-game-/issues/1) in [yuguwduewgd/Snake-game-](https://github.com/yuguwduewgd/Snake-game-)
-4. 🔒 Closed issue [#1](https://github.com/yuguwduewgd/CALCULATOR-CODE-IN-HTML-/issues/1) in [yuguwduewgd/CALCULATOR-CODE-IN-HTML-](https://github.com/yuguwduewgd/CALCULATOR-CODE-IN-HTML-)
-5. ❗ Opened issue [#1](https://github.com/yuguwduewgd/CALCULATOR-CODE-IN-HTML-/issues/1) in [yuguwduewgd/CALCULATOR-CODE-IN-HTML-](https://github.com/yuguwduewgd/CALCULATOR-CODE-IN-HTML-)
-6. 💪 Opened PR [#1](undefined) in [yuguwduewgd/yuguwduewgd](https://github.com/yuguwduewgd/yuguwduewgd)
-7. 🔒 Closed issue [#1](https://github.com/yuguwduewgd/Number-guessing-game/issues/1) in [yuguwduewgd/Number-guessing-game](https://github.com/yuguwduewgd/Number-guessing-game)
-8. ❗ Opened issue [#1](https://github.com/yuguwduewgd/Number-guessing-game/issues/1) in [yuguwduewgd/Number-guessing-game](https://github.com/yuguwduewgd/Number-guessing-game)
-9. 🔒 Closed issue [#1](https://github.com/TheSnappy-Dev/Resume-Generator/issues/1) in [TheSnappy-Dev/Resume-Generator](https://github.com/TheSnappy-Dev/Resume-Generator)
-10. 🔒 Closed issue [#1](https://github.com/S8462876484/tic-tak-app/issues/1) in [S8462876484/tic-tak-app](https://github.com/S8462876484/tic-tak-app)
+1. 🗣 Commented on [#1](https://github.com/S8462876484/Tic-Tac-Toe/issues/1#issuecomment-3516958293) in [S8462876484/Tic-Tac-Toe](https://github.com/S8462876484/Tic-Tac-Toe)
+2. ❗ Opened issue [#1](https://github.com/S8462876484/Tic-Tac-Toe/issues/1) in [S8462876484/Tic-Tac-Toe](https://github.com/S8462876484/Tic-Tac-Toe)
+3. 🔒 Closed issue [#1](https://github.com/yuguwduewgd/Snake-game-/issues/1) in [yuguwduewgd/Snake-game-](https://github.com/yuguwduewgd/Snake-game-)
+4. ❗ Opened issue [#2](https://github.com/yuguwduewgd/Snake-game-/issues/2) in [yuguwduewgd/Snake-game-](https://github.com/yuguwduewgd/Snake-game-)
+5. ❗ Opened issue [#1](https://github.com/yuguwduewgd/Snake-game-/issues/1) in [yuguwduewgd/Snake-game-](https://github.com/yuguwduewgd/Snake-game-)
+6. 🔒 Closed issue [#1](https://github.com/yuguwduewgd/CALCULATOR-CODE-IN-HTML-/issues/1) in [yuguwduewgd/CALCULATOR-CODE-IN-HTML-](https://github.com/yuguwduewgd/CALCULATOR-CODE-IN-HTML-)
+7. ❗ Opened issue [#1](https://github.com/yuguwduewgd/CALCULATOR-CODE-IN-HTML-/issues/1) in [yuguwduewgd/CALCULATOR-CODE-IN-HTML-](https://github.com/yuguwduewgd/CALCULATOR-CODE-IN-HTML-)
+8. 💪 Opened PR [#1](undefined) in [yuguwduewgd/yuguwduewgd](https://github.com/yuguwduewgd/yuguwduewgd)
+9. 🔒 Closed issue [#1](https://github.com/yuguwduewgd/Number-guessing-game/issues/1) in [yuguwduewgd/Number-guessing-game](https://github.com/yuguwduewgd/Number-guessing-game)
+10. ❗ Opened issue [#1](https://github.com/yuguwduewgd/Number-guessing-game/issues/1) in [yuguwduewgd/Number-guessing-game](https://github.com/yuguwduewgd/Number-guessing-game)
 <!--END_SECTION:activity-->
 
 ## 📫 How to Reach Me
