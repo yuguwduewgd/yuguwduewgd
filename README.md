@@ -29,12 +29,12 @@ I'll be sharing code and projects as I learn. Stay tuned! 😍😍😍😍😍�
 2. 💪 Opened PR [#2](undefined) in [S8462876484/Tic-Tac-Toe](https://github.com/S8462876484/Tic-Tac-Toe)
 3. 🗣 Commented on [#1](https://github.com/S8462876484/Tic-Tac-Toe/issues/1#issuecomment-3516958293) in [S8462876484/Tic-Tac-Toe](https://github.com/S8462876484/Tic-Tac-Toe)
 4. ❗ Opened issue [#1](https://github.com/S8462876484/Tic-Tac-Toe/issues/1) in [S8462876484/Tic-Tac-Toe](https://github.com/S8462876484/Tic-Tac-Toe)
-5. 🔒 Closed issue [#1](https://github.com/yuguwduewgd/Snake-game-/issues/1) in [yuguwduewgd/Snake-game-](https://github.com/yuguwduewgd/Snake-game-)
-6. ❗ Opened issue [#2](https://github.com/yuguwduewgd/Snake-game-/issues/2) in [yuguwduewgd/Snake-game-](https://github.com/yuguwduewgd/Snake-game-)
-7. ❗ Opened issue [#1](https://github.com/yuguwduewgd/Snake-game-/issues/1) in [yuguwduewgd/Snake-game-](https://github.com/yuguwduewgd/Snake-game-)
-8. 🔒 Closed issue [#1](https://github.com/yuguwduewgd/CALCULATOR-CODE-IN-HTML-/issues/1) in [yuguwduewgd/CALCULATOR-CODE-IN-HTML-](https://github.com/yuguwduewgd/CALCULATOR-CODE-IN-HTML-)
-9. ❗ Opened issue [#1](https://github.com/yuguwduewgd/CALCULATOR-CODE-IN-HTML-/issues/1) in [yuguwduewgd/CALCULATOR-CODE-IN-HTML-](https://github.com/yuguwduewgd/CALCULATOR-CODE-IN-HTML-)
-10. 💪 Opened PR [#1](undefined) in [yuguwduewgd/yuguwduewgd](https://github.com/yuguwduewgd/yuguwduewgd)
+5. 🔒 Closed issue [#1](https://github.com/Yug2920/Snake-game-/issues/1) in [Yug2920/Snake-game-](https://github.com/Yug2920/Snake-game-)
+6. ❗ Opened issue [#2](https://github.com/Yug2920/Snake-game-/issues/2) in [Yug2920/Snake-game-](https://github.com/Yug2920/Snake-game-)
+7. ❗ Opened issue [#1](https://github.com/Yug2920/Snake-game-/issues/1) in [Yug2920/Snake-game-](https://github.com/Yug2920/Snake-game-)
+8. 🔒 Closed issue [#1](https://github.com/Yug2920/CALCULATOR-CODE-IN-HTML-/issues/1) in [Yug2920/CALCULATOR-CODE-IN-HTML-](https://github.com/Yug2920/CALCULATOR-CODE-IN-HTML-)
+9. ❗ Opened issue [#1](https://github.com/Yug2920/CALCULATOR-CODE-IN-HTML-/issues/1) in [Yug2920/CALCULATOR-CODE-IN-HTML-](https://github.com/Yug2920/CALCULATOR-CODE-IN-HTML-)
+10. 💪 Opened PR [#1](undefined) in [Yug2920/Yug2920](https://github.com/Yug2920/Yug2920)
 <!--END_SECTION:activity-->
 
 ## 📫 How to Reach Me
